@@ -1,0 +1,4 @@
+export const INCREMENT = 'INCREMENT'
+export const DECREMENT = 'DECREMENT'
+export const TEXT_INPUT = 'TEXT_INPUT'
+export const COMMENT_CREATE = 'COMMENT_CREATE'
